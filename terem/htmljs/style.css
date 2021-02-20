@@ -1,0 +1,13 @@
+/*.terem .bgblock1{ background-color: #93d3da; }*/
+.terem .bgblock2{ background-color: #9395da; }
+.terem .bgblock3{ background-color: #93da98; border-style: dashed !important;}
+.terem .bgblock4{ background-color: #d9da93; }
+/*.terem .bgblock5{ background-color: #de664b; }*/
+/*.terem .bgblock6{ background-color: #8c8c8c; }*/
+
+.terem .col-xs-12,
+.terem .col-md-4,
+.terem .col-md-8{
+    border: 1px solid black;
+    border-style: solid;
+}
